@@ -2,8 +2,8 @@
 -- Database: GEI Certificate of Inspection System
 -- Class: CSE2102
 -- Author: Tarico Henry, Serina Garret, Shemar Holder, Leandro Rodriguez
--- Prepared for: Professor Amrita Ramnauth and Professor Phillip Gajadhar
--- Date: October 2025
+-- Prepared for: Miss Amrita Ramnauth and Mr Phillip Gajadhar
+-- Date: 22nd October 2025
 -- ======================================================
 
 CREATE DATABASE gei_certificate_db;
